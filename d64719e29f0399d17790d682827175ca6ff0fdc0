@@ -66,3 +66,9 @@ LetterPlace/: 3b44fac deleted the obsolete declaration of Indeterminates
 Versions:
 2011.11.16 which is Max' version
 2011.11.16 which is Mohamed's version
+
+LocalizeRingForHomalg/: e3aaba0 renamed IsLocalRing -> IsLocal
+
+Versions:
+2011.04.26 which is Markus' version
+2012.05.27 which is Mohamed's version
