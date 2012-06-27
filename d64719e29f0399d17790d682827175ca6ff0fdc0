@@ -60,3 +60,9 @@ LessGenerators/: d64719e added LessGeneratorsSingular/git_clone_LessGeneratorsSi
 Versions:
 2010.06.12 which is Mohamed's version
 2010.04.04 which is Vinay's version
+
+LetterPlace/: 3b44fac deleted the obsolete declaration of Indeterminates
+
+Versions:
+2011.11.16 which is Max' version
+2011.11.16 which is Mohamed's version
