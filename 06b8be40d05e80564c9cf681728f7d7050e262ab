@@ -60,3 +60,9 @@ LessGenerators/: 06b8be4 improved git_clone_LessGeneratorsSingular.sh (suggested
 Versions:
 2010.06.13 which is Mohamed's version
 2010.04.04 which is Vinay's version
+
+LetterPlace/: 3b44fac deleted the obsolete declaration of Indeterminates
+
+Versions:
+2011.11.16 which is Max' version
+2011.11.16 which is Mohamed's version
