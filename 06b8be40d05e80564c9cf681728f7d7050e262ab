@@ -54,3 +54,9 @@ IO_ForHomalg/: 649f07b added Sebastian Gutsche as author
 
 Versions:
  2012.05.24
+
+LessGenerators/: 06b8be4 improved git_clone_LessGeneratorsSingular.sh (suggested by Sebastian)
+
+Versions:
+2010.06.13 which is Mohamed's version
+2010.04.04 which is Vinay's version
