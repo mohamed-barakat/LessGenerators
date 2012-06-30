@@ -122,3 +122,7 @@ Sheaves/: 2d3b398 declared and installed IsFree and IsLocallyFree for divisor
 Versions:
 2011.08.21 which is Markus' version
 2012.05.30 which is Mohamed's version
+
+test_suite/: 4543aed also catch changes to to be committed
+
+Versions:
