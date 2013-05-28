@@ -163,3 +163,8 @@ Sheaves/: 2a43626 IsHomalgRing now lies in the filter IsRingWithOne
 Versions:
 2011.08.21 which is Markus' version
 2013.04.15 which is Mohamed's version
+
+SimplicialObjects/: 0c5dbd4 comply with the new GAPDoc testing methods
+
+Versions:
+ 2011.06.29
