@@ -98,3 +98,9 @@ LessGenerators/: 1dcd1ce activated AutoDoc
 Versions:
 2013.05.01 which is Mohamed's version
 2010.04.04 which is Vinay's version
+
+LetterPlace/: 6260b62 comply with the new GAPDoc testing methods
+
+Versions:
+2011.11.16 which is Max' version
+2012.09.21 which is Mohamed's version
