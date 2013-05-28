@@ -32,3 +32,8 @@ Convex/: 46ecd91 Added some fixes for polyhedrons.
 
 Versions:
 2013.02.26 which is Sebas' version
+
+D-Modules/: 5230ce4 use AssignGeneratorVariables instead of ExportIndeterminates
+
+Versions:
+ 2013.04.16
