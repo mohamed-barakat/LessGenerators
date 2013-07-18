@@ -114,3 +114,10 @@ LetterPlace/: 6260b62 comply with the new GAPDoc testing methods
 Versions:
 2011.11.16 which is Max' version
 2012.09.21 which is Mohamed's version
+
+LocalizeRingForHomalg/: b2744c5 Modified Numerator
+
+Versions:
+2011.04.26 which is Markus' version
+2012.10.26 which is Mohamed's version
+2013.06.25 which is Vinay's version
