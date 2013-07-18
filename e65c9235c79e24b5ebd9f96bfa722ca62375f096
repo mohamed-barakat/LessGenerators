@@ -108,3 +108,9 @@ LessGenerators/: e65c923 moved the cleanup to the beginning of Horrocks and fini
 Versions:
 2013.06.01 which is Mohamed's version
 2013.07.12 which is Vinay's version
+
+LetterPlace/: 6260b62 comply with the new GAPDoc testing methods
+
+Versions:
+2011.11.16 which is Max' version
+2012.09.21 which is Mohamed's version
