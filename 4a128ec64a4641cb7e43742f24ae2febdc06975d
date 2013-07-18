@@ -91,3 +91,8 @@ HomalgToCAS/: 297d5e6 fixed \/ for [ IsFFE, IsHomalgExternalRingRep ]
 
 Versions:
  2013.06.28
+
+IO_ForHomalg/: 6ef8f31 improved Subtitle/LongTitle
+
+Versions:
+ 2012.10.24
