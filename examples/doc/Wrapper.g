@@ -2,11 +2,12 @@ LoadPackage( "LessGenerators" );
 
 Q := HomalgFieldOfRationalsInSingular( );
 
-R := ( Q * "x" ) * "y";
+R := ( Q * "x,z" ) * "y";
 
 AssignGeneratorVariables( R );
 
-row := HomalgMatrix( "[ 1+x*y+x^4, y^2+x-1, x*y-1 ]", 1, 3, R );
+# row := HomalgMatrix( "[ x^2, y+1/2, x^5*y^2+y ]", 1, 3, R );
+row := HomalgMatrix( "[ 3*x^2+1, -x^2+1/2, z*x^5*y^2+y*7, 6*x^2, x*y^3+1/2, z*x^5*y^2+y, 2*x^2, x*z^3+1/2, x^5*z^2+y ]", 1, 9, R );
 
 Assert( 0, IsRightInvertibleMatrix( row ) );
 
@@ -40,6 +41,4 @@ H2 := Horrocks( row2, 2 );
 
 V := Patch( row, [ H1[1], H2[1] ], [ H1[2], H2[2] ] );
 
-y := RelativeIndeterminatesOfPolynomialRing( R )[1];;
-
-Assert( 0, row * V = Value( row, y, Zero( y ) ) );
+Assert( 0, ForAll( EntriesOfHomalgMatrix( row * V ), e -> Degree( e ) < 1 ) );
