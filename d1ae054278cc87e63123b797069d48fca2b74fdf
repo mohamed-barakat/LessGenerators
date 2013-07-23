@@ -102,3 +102,9 @@ k-Points/: 22cd36c standard header
 Versions:
 2012.10.22 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LessGenerators/: d1ae054 use Vinay's Singular package in the new subdirectory Singular
+
+Versions:
+2013.07.19 which is Mohamed's version
+2013.07.18 which is Vinay's version
