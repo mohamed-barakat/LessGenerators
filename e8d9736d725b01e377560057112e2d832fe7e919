@@ -123,3 +123,9 @@ k-Points/: 2ed33fa outsourced declarations of module attributes
 Versions:
 2013.09.19 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LessGenerators/: e8d9736 disabled loading Singular/LessGenerators.lib for the moment
+
+Versions:
+2013.08.08 which is Mohamed's version
+2013.07.20 which is Vinay's version
