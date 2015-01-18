@@ -126,3 +126,8 @@ HomalgToCAS/: b6aedf0 break_point if not need_display
 
 Versions:
  2015.01.12
+
+IO_ForHomalg/: 6ef8f31 improved Subtitle/LongTitle
+
+Versions:
+ 2012.10.24
