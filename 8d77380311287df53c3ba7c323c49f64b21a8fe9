@@ -137,3 +137,10 @@ k-Points/: 2ed33fa outsourced declarations of module attributes
 Versions:
 2013.09.19 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LessGenerators/: 8d77380 improved assertions in QuillenSuslin.g
+
+Versions:
+2013.08.13 which is Mohamed's version
+2013.08.12 which is Vinay's version
+2013.11.06 which is Sebas' version
