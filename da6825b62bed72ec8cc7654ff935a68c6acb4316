@@ -91,3 +91,10 @@ k-Points/: 2ed33fa outsourced declarations of module attributes
 Versions:
 2013.09.19 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LessGenerators/: da6825b installed new heuristics for QS
+
+Versions:
+2015.06.03 which is Mohamed's version
+2015.06.16 which is Vinay's version
+2013.11.06 which is Sebas' version
