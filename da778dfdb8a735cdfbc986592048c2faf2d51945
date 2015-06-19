@@ -81,3 +81,7 @@ Versions:
 GAP/:
 
 Versions:
+
+homalg_project/: 9cdf527 fixed IsLeft/RightInvertibleMatrix
+
+Versions:
