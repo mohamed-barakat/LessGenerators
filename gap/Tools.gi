@@ -98,7 +98,7 @@ InstallGlobalFunction( InstallHeuristicForRightInverseOfARow,
     name := NameFunction( heuristic );
     name := Concatenation( name, "AsRightInverse" );
     
-    DeclareOperation( name, [ IsHomalgMatrix ] );
+#    DeclareOperation( name, [ IsHomalgMatrix ] );
     
     InstallMethod( ValueGlobal( name ),
             "for rows",
