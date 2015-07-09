@@ -162,3 +162,9 @@ Versions:
 test_suite/: 4bd1ab6 now we have a homalg_project repository
 
 Versions:
+
+VirtualCAS/: 43f3cd2 comply with the new GAPDoc testing methods
+
+Versions:
+2011.05.20 which is Andreas' version
+2012.09.21 which is Mohamed's version
