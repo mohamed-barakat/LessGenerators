@@ -85,3 +85,9 @@ Versions:
 homalg_project/: 43a31d3 fixed CoefficientsOfUnivariatePolynomial in CommonHomalgTableForMAGMATools
 
 Versions:
+
+k-Points/: 2ed33fa outsourced declarations of module attributes
+
+Versions:
+2013.09.19 which is Mohamed's version
+2011.06.01 which is Alban's version
