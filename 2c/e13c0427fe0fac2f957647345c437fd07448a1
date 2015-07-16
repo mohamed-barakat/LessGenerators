@@ -81,3 +81,7 @@ Versions:
 GAP/:
 
 Versions:
+
+homalg_project/: 43a31d3 fixed CoefficientsOfUnivariatePolynomial in CommonHomalgTableForMAGMATools
+
+Versions:
