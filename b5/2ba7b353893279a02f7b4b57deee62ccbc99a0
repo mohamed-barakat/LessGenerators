@@ -103,3 +103,8 @@ Versions:
 homalg_project/: a7c9156 Denominator now works for Z[x]_<...>[y]
 
 Versions:
+
+HomalgToCAS/: a303b94 added missing Add( used_pointers, t ) in homalgCreateStringForExternalCASystem
+
+Versions:
+ 2015.03.20
